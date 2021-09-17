@@ -1,6 +1,6 @@
 {
   "name": "@digitalcredentials/base58-universal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode/decode using the Base58 Bitcoin Encoding Scheme.",
   "homepage": "https://github.com/digitalcredentials/base58-universal",
   "repository": {
