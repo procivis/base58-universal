@@ -1,5 +1,7 @@
 # Base58 Universal Encoder/Decoder _(@digitalcredentials/base58-universal)_
 
+[![NPM Version](https://img.shields.io/npm/v/@digitalcredentials/base58-universal.svg)](https://npm.im/@digitalcredentials/base58-universal)
+
 > Encoder/decoder for [The Base58 Encoding Scheme][] for [Node.js][] and Web browsers
 
 ## Table of Contents
@@ -18,7 +20,7 @@ TBD
 
 ## Background
 
-(Forked from [`digitalbazaar/base58-universal`](https://github.com/digitalbazaar/base58-universal) 
+(Forked from [`digitalbazaar/base58-universal`](https://github.com/digitalbazaar/base58-universal)
 to provide TypeScript compatibility.)
 
 This library provides an encoder and decoder for [The Base58 Encoding Scheme][]
