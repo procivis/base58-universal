@@ -1,5 +1,10 @@
 # base58-universal ChangeLog
 
+## 2.0.1 - 2021-09-17
+### Changed
+- **BREAKING**: Publish fork as `@procivis/base58-universal`, remove `esm`
+  transpiler usage for TypeScript compatibility.
+
 ## 2.0.0 - 2022-05-13
 
 ### Changed

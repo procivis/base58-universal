@@ -6,7 +6,7 @@ import chaiBytes from 'chai-bytes';
 chai.use(chaiBytes);
 const should = chai.should();
 
-import {encode, decode} from '../lib/index.js';
+import {encode, decode} from '../lib/index';
 
 /* eslint-disable max-len */
 // https://github.com/bitcoin/bitcoin/blob/master/src/test/data/base58_encode_decode.json
