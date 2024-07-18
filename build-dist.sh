@@ -10,3 +10,5 @@ cat >dist/esm/package.json <<!EOF
   "type": "module"
 }
 !EOF
+
+cp ./lib/index.d.ts ./dist/esm/index.d.ts
